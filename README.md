@@ -2,7 +2,7 @@
 Command Line 
 
 | Command                   | Action                                   |
-| ------------------------- |:-----------------------------------------| 
+| :------------------------ |:-----------------------------------------| 
 | show dbs                  | List all databases                       |
 | use <DATABASE>            | Use target database                      |
 | show collections          | List all collections                     |
