@@ -11,7 +11,7 @@ Command Line
 
 
 
-__<DATABASE>__ insert the name of the database without "<>"
+**<DATABASE> _insert the name of the database without "<>"_**
   
   
 __<COLLECTION>__ insert the name of the collection without "<>"
