@@ -4,14 +4,14 @@ Command Line
 | Command                   | Action                                   |
 | :------------------------ |:-----------------------------------------| 
 | show dbs                  | List all databases                       |
-| use <DATABASE>            | Use target database                      |
+| use **DATABASE**              | Use target database                      |
 | show collections          | List all collections                     |
-| db.<COLLECTION>.find()    | List all documents of used database      |
+| db.**COLLECTION**.find()    | List all documents of used database      |
 | db.dropDatabase()         | Delete used database                     |
 
 
 
-**<DATABASE> _insert the name of the database without "<>"_**
+**DATABASE _insert the name of the database without "<>"_**
   
   
-__<COLLECTION>__ insert the name of the collection without "<>"
+**COLLECTION _insert the name of the collection without "<>"_**
