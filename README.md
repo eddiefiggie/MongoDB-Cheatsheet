@@ -11,7 +11,7 @@ Command Line
 
 
 
-**DATABASE _insert the name of the database without "<>"_**
+**DATABASE -- _insert the name of your database_**
   
   
-**COLLECTION _insert the name of the collection without "<>"_**
+**COLLECTION -- _insert the name of your collection_**
